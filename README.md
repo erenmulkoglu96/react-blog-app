@@ -1,5 +1,5 @@
 
-<p align="center"><h3><b>React Blog App</b></h3></p>
+<p align="center"><b><h3>React Blog App</h3></b></p>
 
 ![image](https://github.com/user-attachments/assets/2d500fbb-9c0b-45fc-9a69-8dc9abbe323a)
 

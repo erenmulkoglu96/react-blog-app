@@ -4,14 +4,12 @@
 ![image](https://github.com/user-attachments/assets/2d500fbb-9c0b-45fc-9a69-8dc9abbe323a)
 
 <table>
-  <tr>
-<td>node -v </td>
-    </tr>
-npm -v 
-npm install -g create-react-app
-npx create-react-app blog 
-cd blog 
-npm start 
+<tr><td>node -v </td></tr>
+<tr><td>npm -v </td></tr>
+<tr><td>npm install -g create-react-app</td></tr>
+<tr><td>npx create-react-app blog </td></tr>
+<tr><td>cd blog </td></tr>
+<tr><td>npm start </td></tr>
 
 npm install redux react-redux @reduxjs/toolkit
 </table>

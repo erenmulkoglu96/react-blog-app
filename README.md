@@ -1,6 +1,11 @@
 
 ### <p align="center"><b>React Blog App</b></p>
 
+
+Blog uygulamasında;  Redux ile global state yönetimi gerçekleştirdim. Context Hook ile tema değiştirme, login durumu yönetimi sağladım. Reusability ile yeniden kullanılabilirlik prensibini uyguladım.  Formlarda validasyon kullandım. HTTP istekleri ve API operasyonları işlettim. 
+
+(In the blog application; I implemented global state management with Redux. I provided theme changing and login status management with Context Hook. I applied the reusability principle with Reusability. I used validation in forms. I performed HTTP requests and API operations.)
+
 ![image](https://github.com/user-attachments/assets/2d500fbb-9c0b-45fc-9a69-8dc9abbe323a)
 
 <table>

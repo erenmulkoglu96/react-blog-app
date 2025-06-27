@@ -13,9 +13,11 @@
 <tr><td>npm install redux react-redux @reduxjs/toolkit</td></tr>
 </table>
 
-React UI Libraries
-<tr><td>npm install @mui/material @emotion/react @emotion/styled</td></tr
 
+React UI Libraries
+<table>
+<tr><td>npm install @mui/material @emotion/react @emotion/styled</td></tr
+</table>table>
 --- 
 https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 

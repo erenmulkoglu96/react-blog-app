@@ -9,9 +9,8 @@
 <tr><td>npm install -g create-react-app</td></tr>
 <tr><td>npx create-react-app blog </td></tr>
 <tr><td>cd blog </td></tr>
-<tr><td>npm start </td></tr>
-
-npm install redux react-redux @reduxjs/toolkit
+<tr><td>npm start </td></tr
+<tr><td>npm install redux react-redux @reduxjs/toolkit</td></tr>
 </table>
 
 React UI Libraries

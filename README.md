@@ -3,8 +3,10 @@
 
 ![image](https://github.com/user-attachments/assets/2d500fbb-9c0b-45fc-9a69-8dc9abbe323a)
 
-
+<table>
+  <tr>
 node -v 
+    </tr>
 npm -v 
 npm install -g create-react-app
 npx create-react-app blog 
@@ -12,6 +14,7 @@ cd blog
 npm start 
 
 npm install redux react-redux @reduxjs/toolkit
+</table>
 
 React UI Libraries
 npm install @mui/material @emotion/react @emotion/styled

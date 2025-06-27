@@ -17,7 +17,7 @@
 React UI Libraries
 <table>
 <tr><td>npm install @mui/material @emotion/react @emotion/styled</td></tr
-</table>table>
+</table>
 --- 
 https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 

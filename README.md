@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-node -v 
+<td>node -v </td>
     </tr>
 npm -v 
 npm install -g create-react-app

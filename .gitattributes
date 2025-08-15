@@ -1,9 +1,1 @@
-*.js linguist-vendored
 src/**/*.js linguist-detectable=true
-
-public/**         linguist-vendored
-**/assets/**      linguist-vendored
-**/vendor/**      linguist-vendored
-**/*.min.js       linguist-vendored
-**/*.map          linguist-generated
-build/**          linguist-generated

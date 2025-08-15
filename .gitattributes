@@ -1,8 +1,1 @@
-# .gitattributes
-
-public/**           linguist-vendored
-**/*.min.js         linguist-vendored
-**/*.map            linguist-generated
-build/**            linguist-generated
-node_modules/**     linguist-vendored
-
+src/**/*.js linguist-detectable=true

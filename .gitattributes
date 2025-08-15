@@ -11,3 +11,7 @@ src/setupTests.js linguist-vendored=true
 src/compontents/login/LoginForm.js linguist-vendored=true
 src/compontents/login/store.js linguist-vendored=true
 
+src/compontents/login/store.js linguist-vendored=true
+
+src/compontents/register/ReusabilityTextInput.js linguist-vendored=true
+

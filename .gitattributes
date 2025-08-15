@@ -7,3 +7,7 @@ src/authSlice.js linguist-vendored=true
 src/setupTests.js linguist-vendored=true
 src/store.js linguist-vendored=true
 
+src/setupTests.js linguist-vendored=true
+src/compontents/login/LoginForm.js linguist-vendored=true
+src/compontents/login/store.js linguist-vendored=true
+

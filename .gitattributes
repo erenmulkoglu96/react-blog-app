@@ -1,2 +1,6 @@
-
-src/**/*.js linguist-detectable=true
+# react-blog-app → Oran düşürmek istediğin JS dosyaları
+src\App.js                  linguist-vendored=true
+src\index.js                linguist-vendored=true
+src\redux\store.js          linguist-vendored=true
+src\redux\reducers\authReducer.js linguist-vendored=true
+src\redux\reducers\postReducer.js linguist-vendored=true

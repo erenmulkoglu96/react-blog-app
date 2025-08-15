@@ -1,40 +1,24 @@
 # react-blog-app → Oran düşürmek istediğin JS dosyaları
 src/App.js linguist-vendored=true
 src/index.js linguist-vendored=true
-
 src/App.test.js linguist-vendored=true
 src/authSlice.js linguist-vendored=true
 src/setupTests.js linguist-vendored=true
 src/store.js linguist-vendored=true
-
 src/setupTests.js linguist-vendored=true
 src/compontents/login/LoginForm.js linguist-vendored=true
 src/compontents/login/store.js linguist-vendored=true
-
 src/compontents/login/store.js linguist-vendored=true
-
 src/compontents/register/ReusabilityTextInput.js linguist-vendored=true
-
 src/compontents/register/ReusabilityTextInput.js linguist-vendored=true
-
 src/compontents/register/RegisterForm.jsx linguist-vendored=true
-
 src/compontents/register/RegisterForm.jsx linguist-vendored=true
-
 src/compontents/register/ClassCompontentsTutorials.jsx linguist-vendored=true
-
 src/compontents/ClassCompontentsTutorials.jsx linguist-vendored=true
-
 src/compontents/FooterFunction.jsx linguist-vendored=true
-
-
 src/compontents/FunctionCompontentsTutorials.jsx linguist-vendored=true
-
-
 src/compontents/FunctionCompontentsTutorials.jsx linguist-vendored=true
-
 src/compontents/HeaderFunction.jsx linguist-vendored=true
-
 src/compontents/MainFunction.jsx linguist-vendored=true
 
 

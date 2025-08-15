@@ -6,16 +6,4 @@ src/App.test.js linguist-vendored=true
 src/authSlice.js linguist-vendored=true
 src/setupTests.js linguist-vendored=true
 src/store.js linguist-vendored=true
-# Varsayılan: tüm .js’leri sayma
-*.js linguist-vendored
 
-# Sadece kendi kaynak kodun sayılsın
-src/**/*.js linguist-detectable=true
-
-# Statik/3rd-party ve çıktılar yine sayılmasın
-public/**        linguist-vendored
-node_modules/**  linguist-vendored
-**/*.min.js      linguist-vendored
-**/*.map         linguist-generated
-build/**         linguist-generated
-dist/**          linguist-generated
